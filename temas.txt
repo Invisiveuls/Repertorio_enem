@@ -1,5 +1,0 @@
-{
-    "Lazer": [
-        "Falta de tempo"
-    ]
-}
